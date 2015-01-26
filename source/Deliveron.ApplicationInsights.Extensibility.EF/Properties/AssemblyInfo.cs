@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Deliveron.ApplicationInsights.Extensibility.EF")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Entity Framework Telemetry for Application Insights")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Deliveron Consulting Services")]
 [assembly: AssemblyProduct("Deliveron.ApplicationInsights.Extensibility.EF")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
+[assembly: AssemblyCopyright("Copyright © Deliveron Consulting Services 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
